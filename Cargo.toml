@@ -1,0 +1,10 @@
+[package]
+name = "deterministic_default_hasher"
+description = "A deterministic initialisation of the stdlib default hasher"
+version = "0.14.1"
+license = "BSD-2-Clause"
+repository = "https://github.com/sebschmi/deterministic-default-hasher"
+rust-version = "1.76.0"
+edition = "2021"
+
+[dependencies]
