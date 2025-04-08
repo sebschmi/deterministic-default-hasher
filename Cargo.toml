@@ -2,7 +2,7 @@
 name = "deterministic_default_hasher"
 description = "A deterministic initialisation of the stdlib default hasher"
 authors = ["Sebastian Schmidt <sebastian.schmidt@helsinki.fi>"]
-version = "0.14.1"
+version = "0.14.2"
 license = "BSD-2-Clause"
 repository = "https://github.com/sebschmi/deterministic-default-hasher"
 rust-version = "1.76.0"
